@@ -1,0 +1,119 @@
+ 
+     body
+    {
+        font-family:Arial, Helvetica, sans-serif;
+        background-color:#F7C7AB;
+    }
+
+label
+{
+    width:10em;
+    padding-right:1em;
+    float:left;
+}
+#data input
+{
+    float:left;
+    width:15em;
+    margin-bottom:.5em;
+}
+
+#buttons input
+{
+    float:left;                     
+    margin-bottom:.5em;
+}
+
+br
+{
+    clear:left;
+}
+            
+            
+            h1,h2{
+                color:maroon;
+            }
+                      
+            
+            
+            #container{
+                width:450px;
+    margin:0 auto;
+    padding:0px 20px 20px;
+                border: 2px solid maroon;
+                background-color:#F7C7AB;
+            }
+
+            
+            a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: red;
+}         
+
+
+
+
+            
+            #image-container img{
+               width:95%;
+               height:5%;
+            }
+            
+            #container{
+                width:450px;
+    margin:0 auto;
+    padding:0px 20px 20px;
+                border: 2px solid maroon;
+            }
+            
+            .button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #f44336;
+}
+
+.button:hover {
+  background-color: #f44336;
+  color: white;
+}
+
+input[type=number] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 2px solid red;
+  border-radius: 4px;
+}
+ 
+select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 2px solid red;
+  border-radius: 4px;
+}
